@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "677049317592",
+    "firebase_url": "https://warshatk-9fa8b-default-rtdb.firebaseio.com",
+    "project_id": "warshatk-9fa8b",
+    "storage_bucket": "warshatk-9fa8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677049317592:android:9a044761966e3b4683bfad",
+        "android_client_info": {
+          "package_name": "com.example.service_provider_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677049317592-sbclj44k24bcgmj80q28funnqe8nt8j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA49SytzlLV0LGn5Ayl_4ovjjdDVeyjdTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677049317592-sbclj44k24bcgmj80q28funnqe8nt8j1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
